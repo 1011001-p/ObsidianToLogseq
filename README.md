@@ -13,4 +13,4 @@ You give the script the path to your obsidian vault: It will go over all the mar
 1. **Backup your Obsidian vault before proceeding**
 2. Download the script (clone the repository or just grab the file).
 3. Give it execute permissions: `chmod +x obsidianToLS.sh`
-4. Run the script and pass in the directory you want to check: `./move_markdown_files.sh /path/to/your/directory`
+4. Run the script and pass in the directory you want to check: `./obsidianToLS.sh /path/to/your/directory`
